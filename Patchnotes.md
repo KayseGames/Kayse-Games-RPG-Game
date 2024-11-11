@@ -19,5 +19,9 @@ These are issues that were either introduced by this patch and are being worked 
 - You are able to vault through walls that are too tall.
 - Dead people don't stay dead.
 
+**Medium Priority:**
+- Already killed enemies can be assassinated a second time.
+- If you attack an enemy from the front the animation glitches.
+
 ## 🖥️ Download Location
 Download all files from this [GitHub repository](#). Then open the files in Unreal Engine using your Epic Games Account.
