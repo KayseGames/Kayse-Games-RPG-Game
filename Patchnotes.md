@@ -25,7 +25,7 @@ These are issues that were either introduced by this patch and are being worked 
 - If you spam assassinate and vault at the same time you glitch out and either ragdoll or go through walls.
 
 ## 🖥️ Download Location
-Download all files from this [GitHub repository](#). Then open the files in Unreal Engine using your Epic Games Account.  
+Download all files from this [GitHub repository](#). Then open the files in Unreal Engine using your Epic Games Account.\
 
 
 
