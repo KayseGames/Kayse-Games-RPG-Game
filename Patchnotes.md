@@ -28,6 +28,9 @@ These are issues that were either introduced by this patch and are being worked 
 Download all files from this [GitHub repository](#). Then open the files in Unreal Engine using your Epic Games Account.
 <br>
 <br>
+<br>
+<br>
+<br>
 # 🛠️ Version Beta 1.1.0 ⚙️
 
 ## 🌍 Overview
