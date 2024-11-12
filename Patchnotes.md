@@ -22,6 +22,7 @@ These are issues that were either introduced by this patch and are being worked 
 **Medium Priority:**
 - Already killed enemies can be assassinated a second time.
 - If you attack an enemy from the front the animation glitches.
+- If you spam assassinate and vault at the same time you glitch out and either ragdoll or go through walls.
 
 ## 🖥️ Download Location
 Download all files from this [GitHub repository](#). Then open the files in Unreal Engine using your Epic Games Account.
